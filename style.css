@@ -1,0 +1,23 @@
+
+body{
+background-color: #2d615f;
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+text-align: center;
+padding: 50px;
+}
+h1{
+    background-color: #4b0d0d;
+    display: inline-block;
+    padding: 10px  20px;
+    border-radius: 5px;
+}
+.box{
+background-color: #00d4aa;
+color: black;
+border: 5px solid red;
+margin: 30px auto;
+padding: 20px;
+max-width: 500px;
+text-align: left;
+}
